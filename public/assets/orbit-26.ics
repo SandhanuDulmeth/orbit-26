@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ORBIT 26 Concept//Demo Build Weekend//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:orbit26-fictional-build-weekend@example.invalid
+DTSTAMP:20261109T000000Z
+DTSTART:20261219T023000Z
+DTEND:20261220T143000Z
+SUMMARY:ORBIT 26 - Fictional build weekend (demo)
+LOCATION:UCSC\, Colombo (illustrative venue)
+DESCRIPTION:Fictional hackathon concept for the IEEE CS UCSC Web Team
+  Recruitment Task. This is not a real event or confirmed registration.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
